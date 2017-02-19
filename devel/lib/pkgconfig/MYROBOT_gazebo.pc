@@ -1,0 +1,8 @@
+prefix=/home/brian/catkin_ws/devel
+
+Name: MYROBOT_gazebo
+Description: Description of MYROBOT_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/brian/catkin_ws/devel/lib 
+Requires: 
